@@ -1,11 +1,16 @@
 h1{
-  text-align: center;
+  text-align: left;
+  padding-left: 60px;
 }
 h2{
-  text-align: center;
+  text-align: left;
+  padding-left: 60px;
 }
+
+
 .email a{
   color: #718177;
+  padding-right: 60px;
 }
 
 .email :hover,
