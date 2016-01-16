@@ -1,7 +1,18 @@
 h1{
   text-align: center;
 }
+h2{
+  text-align: center;
+}
+.email a{
+  color: #718177;
+}
 
+.email :hover,
+.email :focus {
+  color: #232633;
+  text-decoration: none;
+}
 .image{
   text-align: center;
 }
