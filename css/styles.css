@@ -1,5 +1,13 @@
+.project {
+  color: #232633;
 
+}
 
+.project :hover,
+.project :focus {
+  color: #232633;
+  text-decoration: none;
+}
 
 .email a{
   color: #718177;
