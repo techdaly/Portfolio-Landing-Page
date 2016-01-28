@@ -6,16 +6,16 @@
 
 ## Description
 
-_This is a website built using HTML, CSS, and Bootstrap that will serve as my Portfolio Landing Page. The site will contain my name, an image of me, a list of projects I have created with active links to them, and an About Me section. This site will be hosted on GitHub Pages._
+_This is a website built using HTML, CSS, and Bootstrap that will serve as my Portfolio Landing Page. The site will contain my name, an image of me, a list of projects I have created with active links to them, and an About Me section. This site is hosted on GitHub Pages at (http://techdaly.github.io "http://techdaly.github.io.")_
 
 ## Setup/Installation Requirements
 
-* _I'm not sure what the setup requirements are, yet. I haven't even written the website._
+* _Open in Chrome for ultimate ease of use._
 
 
 ## Known Bugs
 
-_There is currently a critical bug in my website. It appears not to have been written._
+_I have not encountered any bugs myself, although I was reading that the fonts I used may not show up in Internet Explorer and a few other browsers._
 
 ## Support and contact details
 
@@ -24,6 +24,10 @@ _If you run into any issues or have questions, ideas, or concerns please contact
 ## Technologies Used
 
 _HTML, CSS, Bootstrap_
+
+## Bonus Items
+
+_Favicon, Custom Font(ClearSans from Intel)_
 
 ### License
 
