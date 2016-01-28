@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a website built using HTML, CSS, and Bootstrap that will serve as my Portfolio Landing Page. The site will contain my name, an image of me, a list of projects I have created with active links to them, and an About Me section. This site is hosted on GitHub Pages at (http://techdaly.github.io "http://techdaly.github.io.")_
+_This is a website built using HTML, CSS, and Bootstrap that will serve as my Portfolio Landing Page. The site will contain my name, an image of me, a list of projects I have created with active links to them, and an About Me section. This site is hosted on GitHub Pages at http://techdaly.github.io._
 
 ## Setup/Installation Requirements
 
